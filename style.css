@@ -1,0 +1,13 @@
+body {color:white;
+background-color:black;}
+img {
+    display: block;
+    margin: auto;
+}
+audio {
+    display: block;
+    margin: auto;
+}
+header {
+    font-size: 25px;
+}
